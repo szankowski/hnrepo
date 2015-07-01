@@ -1,4 +1,5 @@
 # test
+#test 2
 class Comment
   attr_reader :text
 
